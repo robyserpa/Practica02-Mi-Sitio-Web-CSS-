@@ -1,0 +1,57 @@
+.cuenta {
+    clear: both;
+    text-align: left;
+    float: left;
+}
+
+.cuenta #imagen {
+    width: 40%;
+    float: left;
+}
+
+.cuenta aside img {
+    width: 100%;
+}
+
+.cuenta #sesion {
+    margin: 0 auto;
+    width: 35%;
+    padding: 2%;
+    float: left;
+    border: solid;
+    border-radius: 10px;
+}
+
+#nombre {
+    width: 70%;
+    margin: 1% 0%;
+    float: left;
+}
+
+#mensaje {
+    width: 70%;
+    height: 100px;
+    margin: 1% 0%;
+    float: left;
+
+}
+
+#enviar {
+    clear: both;
+    float: right;
+    width: 20%;
+    margin: 2% 0%;
+    border-radius: 10px;
+}
+
+.cuenta label {
+    clear: both;
+    width: 20%;
+    display: block;
+    float: left;
+}
+
+.btn {
+    display: block;
+    margin: 1em 0;
+}
