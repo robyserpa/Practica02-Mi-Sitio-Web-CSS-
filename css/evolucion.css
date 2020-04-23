@@ -1,0 +1,44 @@
+.central {
+    clear: both;
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color: #f2adff;
+    border-radius: 10px;
+}
+
+.izquierda {
+    width: 30%;
+    padding: 1%;
+    margin: 1% 0 0 1%;
+    float: left;
+    text-align: center;
+    background-color: #C292E8;
+    border-radius: 10PX;
+}
+
+.izquierda img {
+    width: 100%;
+}
+
+.derecha {
+    width: 60%;
+    padding: 1%;
+    float: left;
+    margin: 1% 2%;
+    text-align: center;
+    background-color: #BCA1FF;
+    border-radius: 10PX;
+}
+
+.derecha img {
+    width: 60%;
+}
+
+.derecha aside p {
+    text-align: justify;
+}
+
+.derecha aside ol {
+    text-align: left;
+}
